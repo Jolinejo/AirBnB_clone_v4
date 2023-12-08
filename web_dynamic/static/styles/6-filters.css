@@ -6,6 +6,9 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
 }
+input {
+    margin-right: 10px;
+}
 button {
     position: absolute;
     font-size: 18px;
